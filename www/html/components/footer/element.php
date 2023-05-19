@@ -1,3 +1,3 @@
 <footer>
-    <p><?php echo $title; ?></p>
+    <p><?= $title ?></p>
 </footer>
